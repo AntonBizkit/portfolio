@@ -8,4 +8,4 @@ __Качества:__
 - Целеустремленность  
 
 ## Моё фото: ##  
-![Моё фото](\work3\cat.jpg)
+![Моё фото](https://github.com/AntonBizkit/portfolio/blob/main/cat.jpg?raw=true)
