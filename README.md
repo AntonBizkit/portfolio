@@ -9,3 +9,4 @@ __Качества:__
 
 ## Моё фото: ##  
 ![Моё фото](https://github.com/AntonBizkit/portfolio/blob/main/cat.jpg?raw=true)
+theme: jekyll-theme-minimal
